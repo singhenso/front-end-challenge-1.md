@@ -19,8 +19,10 @@ Using your favorite web editor like codepen.io or jsfiddle.net, please write cod
 
 **Data:**
 
-https://gist.github.com/scottburton11/66a921c458f9500a773a6b0ac65006df
+https://gist.github.com/singhenso/1bdf799646bd856ee07a5d6c01466989
 
+Raw format is below:
+https://gist.githubusercontent.com/singhenso/1bdf799646bd856ee07a5d6c01466989/raw/b6cf2606c7059c256311d013dc864278add42659/cars_data
 
 **Example Image:**
 
